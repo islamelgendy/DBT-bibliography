@@ -45,3 +45,25 @@ ALL( "software test*" ) AND ( KEY ( divers* OR similar* ) OR TITLE ( divers* OR 
    2. Subdiscipline: `Software Engineering`.
    3. Language: `English`.
    4. Content-Type: `Conference Paper` or `Article`.
+
+## Test re-test
+According to the guidelines by Kitchenham~\cite{Keele2007}, the first author has applied a test re-test approach, where he made a second extraction of the statistics and information on a random selection of papers to check the consistency of information extraction. The random set contained 17 papers, which are 10% of the papers in the study. We used an online random number generator[^5] for the papers to be reviewed, where the numbers refer to the indices of the papers in our final list. These papers are:
+1. Xie2005: A dynamic optimization strategy for evolutionary testing.
+2. Cruciani2019: Scalable Approaches for Test Suite Reduction.
+3. Noor2015: A similarity-based approach for test case prioritization using historical failure data.
+4. Attaoui2023: Black-box safety analysis and retraining of DNNs based on feature extraction and clustering.
+5. Ojdanic2023: Syntactic Versus Semantic Similarity of Artificial and Real Faults in Mutation Testing Studies.
+6. Hemmati2013: Achieving Scalable Model-Based Testing through Test Case Diversity.
+7. Guarnieri2022: An Automated Framework for Cost Reduction of Mutation Testing Based on Program Similarity.
+8. Chen2019C: History-Guided Configuration Diversification for Compiler Test-Program Generation.
+9. Semerath2020: Diversity of graph models and graph generators in mutation testing.
+10. Farzat2010: Test Case Selection Method for Emergency Changes.
+11. Gong2012: Diversity Maximization Speedup for Fault Localization.
+12. Wu2012: Test case prioritization incorporating ordered sequence of program elements.
+13. Panchapakesan2013: Dynamic white-box software testing using a recursive hybrid evolutionary strategy/genetic algorithm.
+14. You2013: Evaluation and Analysis of Spectrum-Based Fault Localization with Modified Similarity Coefficients for Software Debugging.
+15. Ledru2012: Prioritizing test cases with string distances.
+16. Yu2023: Black-Box Test Case Prioritization Using Log Analysis and Test Case Diversity.
+17. Cartaxo2009: On the use of a similarity function for test case selection in the context of model-based testing.
+
+[^5]: https://www.random.org/integers/
