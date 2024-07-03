@@ -29,21 +29,19 @@ or _"similar*"_ (i.e., "similar" and "similarity") in the title or the keywords.
 
 1. The exact search query used in IEEE Xplore was: 
 ```
-“("All Metadata":software test*) AND (("Document Title":divers* OR "Document Title":similar*) OR
-("Author Keywords":divers* OR "Author Keywords":similar*))”
+("All Metadata":software test*) AND (("Document Title":divers* OR "Document Title":similar*) OR ("Author Keywords":divers* OR "Author Keywords":similar*))
 ```
 2. The exact search query used in ACM was: 
 ```
-“AllField:("software testing") AND ( Title:(similar* OR divers*) OR Keyword:(similar* OR divers*) )”
+AllField:("software testing") AND ( Title:(similar* OR divers*) OR Keyword:(similar* OR divers*) )
 ```
 3. The exact search query used in Scopus was: 
 ```
-“TITLE-ABS-KEY(software test*) AND (KEY(divers* OR similar*) OR TITLE(divers* OR similar*)) AND ( LIMIT-TO ( SUBJAREA,"COMP" ) )
-AND ( LIMIT-TO ( DOCTYPE,"cp" ) OR LIMIT-TO ( DOCTYPE,"ar" ) ) AND ( LIMIT-TO ( LANGUAGE,"English" ) )”
+ALL( "software test*" ) AND ( KEY ( divers* OR similar* ) OR TITLE ( divers* OR similar* ) ) AND ( LIMIT-TO ( SUBJAREA , "COMP" ) ) AND ( LIMIT-TO ( DOCTYPE , "cp" ) OR LIMIT-TO ( DOCTYPE , "ar" ) ) AND ( LIMIT-TO ( LANGUAGE , "English" ) )
 ```
 4. The exact search query used in SpringerLink was `"software test*" AND ("similar*" OR "divers*")`. However, we used
    the search engine to filter the results based on:
    1. Discipline: `Computer Science`.
    2. Subdiscipline: `Software Engineering`.
    3. Language: `English`.
-   4. Content-Type: 'Conference Paper` or `Article`.
+   4. Content-Type: `Conference Paper` or `Article`.
