@@ -7,7 +7,7 @@ In this README file, we give a few details about the systematic mapping study on
 1. The folder `search-results` contains the raw files taken from each search engine. Each search engine has its own subfolder, where the results are saved in either .csv or .bib files.
 2. The folder `processing-steps` contains the search results and the steps taken to screen them to reach the final set of studies.
 3. The folder `plots` contains the matplotlib files used to generate the plots in the study.
-4. The file `Collection.bib` contains the BibTeX format of all 137 papers in our study.
+4. The file `Collection.bib` contains the BibTeX format of all 167 papers in our study.
 5. The file `Appendix.pdf` contains more detailed information about the similarity metrics in the study. It includes all similarity metrics, both generic and specialized metrics.
 
 ## Search Operationalization 
