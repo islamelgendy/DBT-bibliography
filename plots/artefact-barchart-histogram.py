@@ -48,7 +48,7 @@ print(data)
 plt.figure(figsize=(8, 8))
 plt.ylabel('Number of Studies')
 # colors_list = ['Red', 'Orange', 'Blue', 'Purple']
-graph = plt.bar(data.Aretefact, data.NumPapers, color=colors)
+graph = plt.bar(data.Aretefact, data.NumPapers)#, color=colors)
 # plt.xticks(xLabels)
 plt.xticks(rotation=45)
 plt.tight_layout()
