@@ -1,0 +1,71 @@
+,Artefact,Problem,count
+0,Input,Test data generation,25
+1,Test Script,Test case prioritisation,13
+2,Feature,Test data generation,13
+3,Other,Test data generation,10
+4,Hybrid,Test data generation,7
+5,Other,Test case selection,7
+6,Test Script,Test suite reduction,6
+7,Transitions,Test case selection,6
+8,Output,Test data generation,5
+9,Other,Test case prioritisation,5
+10,Input,Test case prioritisation,4
+11,Test Script,Fault localisation,4
+12,Execution,Test case prioritisation,4
+13,Input,Other,3
+14,Test Script,Test case selection,3
+15,Test Script,Test suite evaluation,3
+16,Feature,Test case selection,3
+17,Execution,Test data generation,3
+18,Coverage,Test case prioritisation,3
+19,GUI,Test suite evaluation,3
+20,Other,Test suite evaluation,3
+21,Other,Test suite reduction,3
+22,Other,Other,3
+23,Input,Test case selection,2
+24,Feature,Test case prioritisation,2
+25,Feature,Test suite evaluation,2
+26,Hybrid,Test suite evaluation,2
+27,Hybrid,Fault localisation,2
+28,Transitions,Test data generation,2
+29,Output,Test case selection,2
+30,Output,Other,2
+31,Coverage,Test case selection,2
+32,GUI,Test data generation,2
+33,Input,Test suite reduction,1
+34,Test Script,Test data generation,1
+35,Test Script,Other,1
+36,Feature,Other,1
+37,Hybrid,Test case selection,1
+38,Execution,Test suite evaluation,1
+39,Execution,Fault localisation,1
+40,Transitions,Test suite reduction,1
+41,Output,Test case prioritisation,1
+42,Coverage,Test suite evaluation,1
+43,Coverage,Test suite reduction,1
+63,Coverage,Test data generation,1
+44,Coverage,Fault localisation,1
+45,GUI,Test case prioritisation,1
+46,Input,Test suite evaluation,0
+47,Input,Fault localisation,0
+48,Feature,Test suite reduction,0
+49,Feature,Fault localisation,0
+50,Hybrid,Test case prioritisation,0
+51,Hybrid,Test suite reduction,0
+52,Hybrid,Other,0
+53,Execution,Test case selection,0
+54,Execution,Test suite reduction,0
+55,Execution,Other,0
+56,Transitions,Test case prioritisation,0
+57,Transitions,Test suite evaluation,0
+58,Transitions,Fault localisation,0
+59,Transitions,Other,0
+60,Output,Test suite evaluation,0
+61,Output,Test suite reduction,0
+62,Output,Fault localisation,0
+64,Coverage,Other,0
+65,GUI,Test case selection,0
+66,GUI,Test suite reduction,0
+67,GUI,Fault localisation,0
+68,GUI,Other,0
+69,Other,Fault localisation,0

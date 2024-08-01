@@ -1,0 +1,71 @@
+,Metric,Artefact,count
+0,Other Generic,Input,17
+1,Specialised,Other,13
+2,Other Generic,Test Script,12
+3,Euclidean,Test Script,11
+5,Specialised,Input,10
+4,Other Generic,Other,9
+6,Jaccard,Test Script,9
+7,Other Generic,Feature,9
+8,Levenshtein,Transitions,7
+9,Jaccard,Other,7
+10,Euclidean,Input,6
+11,Euclidean,Feature,6
+12,Levenshtein,Input,6
+13,Levenshtein,Test Script,6
+14,Levenshtein,Other,6
+15,Hamming,Test Script,6
+16,Manhattan,Test Script,6
+17,Specialised,Test Script,6
+18,Specialised,Transitions,6
+19,Hamming,Other,5
+20,Manhattan,Feature,5
+21,Jaccard,Coverage,4
+22,Euclidean,Output,3
+23,Euclidean,Coverage,3
+24,Levenshtein,Execution,3
+40,Other Generic,Coverage,3
+25,Jaccard,Hybrid,3
+26,Euclidean,Hybrid,2
+27,Euclidean,Other,2
+28,Levenshtein,Hybrid,2
+29,Levenshtein,GUI,2
+30,Jaccard,Execution,2
+31,Jaccard,Transitions,2
+32,Hamming,Input,2
+33,Hamming,Feature,2
+34,Hamming,Execution,2
+35,Manhattan,Input,2
+36,Manhattan,Hybrid,2
+37,Manhattan,Execution,2
+38,Other Generic,Execution,2
+39,Other Generic,Transitions,2
+41,Specialised,Hybrid,2
+42,Specialised,Output,2
+43,Specialised,Coverage,2
+44,Specialised,GUI,2
+45,Euclidean,Execution,1
+46,Euclidean,GUI,1
+47,Levenshtein,Feature,1
+48,Levenshtein,Coverage,1
+49,Jaccard,Input,1
+50,Jaccard,Feature,1
+51,Jaccard,Output,1
+52,Jaccard,GUI,1
+53,Hamming,Hybrid,1
+54,Hamming,Transitions,1
+55,Manhattan,Coverage,1
+56,Other Generic,Hybrid,1
+57,Other Generic,Output,1
+58,Other Generic,GUI,1
+59,Specialised,Feature,1
+60,Specialised,Execution,1
+61,Euclidean,Transitions,0
+62,Levenshtein,Output,0
+63,Hamming,Output,0
+64,Hamming,Coverage,0
+65,Hamming,GUI,0
+66,Manhattan,Transitions,0
+67,Manhattan,Output,0
+68,Manhattan,GUI,0
+69,Manhattan,Other,0

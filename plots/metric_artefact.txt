@@ -1,0 +1,8 @@
+Euclidean Input
+Jaccard	Input
+Edit Output
+Hamming Input
+OtherGeneric Output
+Specialised Input
+Edit Input
+Hamming TestScript

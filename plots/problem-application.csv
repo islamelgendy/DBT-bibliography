@@ -1,0 +1,43 @@
+,Problem,Application,count
+0,Test data generation,Stand-Alone,39
+1,Test case prioritisation,Stand-Alone,28
+2,Test suite reduction,Stand-Alone,11
+3,Test suite evaluation,Stand-Alone,10
+4,Test data generation,Neural networks,9
+5,Test case selection,Stand-Alone,9
+6,Test data generation,Other,8
+7,Test case selection,Model-Based,8
+8,Fault localisation,Stand-Alone,8
+9,Other,Stand-Alone,8
+10,Test data generation,Web,6
+11,Test case selection,Neural networks,4
+12,Test data generation,Model-Based,3
+13,Test data generation,GUI Apps,2
+14,Test case prioritisation,Neural networks,2
+15,Test suite evaluation,Neural networks,2
+16,Test suite evaluation,Web,2
+17,Test case prioritisation,Model-Based,1
+18,Test case prioritisation,Web,1
+19,Test case prioritisation,GUI Apps,1
+20,Test case selection,Other,1
+21,Test suite evaluation,GUI Apps,1
+22,Test suite reduction,Model-Based,1
+23,Other,Neural networks,1
+24,Other,Other,1
+25,Test case prioritisation,Other,0
+26,Test case selection,Web,0
+27,Test case selection,GUI Apps,0
+28,Test suite evaluation,Model-Based,0
+29,Test suite evaluation,Other,0
+30,Test suite reduction,Neural networks,0
+31,Test suite reduction,Web,0
+32,Test suite reduction,GUI Apps,0
+33,Test suite reduction,Other,0
+34,Fault localisation,Neural networks,0
+35,Fault localisation,Model-Based,0
+36,Fault localisation,Web,0
+37,Fault localisation,GUI Apps,0
+38,Fault localisation,Other,0
+39,Other,Model-Based,0
+40,Other,Web,0
+41,Other,GUI Apps,0

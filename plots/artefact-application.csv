@@ -1,0 +1,61 @@
+,Artefact,Application,count
+0,Test Script,Stand-Alone,28
+1,Other,Stand-Alone,26
+2,Input,Stand-Alone,25
+3,Feature,Neural networks,9
+4,Hybrid,Stand-Alone,9
+5,Execution,Stand-Alone,8
+6,Transitions,Model-Based,8
+7,Feature,Stand-Alone,7
+8,Coverage,Stand-Alone,7
+9,Input,Neural networks,5
+10,Feature,Other,5
+11,GUI,GUI Apps,4
+12,Other,Model-Based,4
+13,Output,Stand-Alone,3
+14,Output,Model-Based,3
+15,Input,Web,2
+16,Input,Other,2
+17,Test Script,Other,2
+18,Hybrid,Web,2
+19,Output,Neural networks,2
+20,Coverage,Neural networks,2
+21,GUI,Web,2
+22,Test Script,Web,1
+23,Hybrid,Model-Based,1
+24,Execution,Neural networks,1
+25,Transitions,Other,1
+26,Output,Web,1
+27,Other,Web,1
+28,Input,Model-Based,0
+29,Input,GUI Apps,0
+30,Test Script,Neural networks,0
+31,Test Script,Model-Based,0
+32,Test Script,GUI Apps,0
+33,Feature,Model-Based,0
+34,Feature,Web,0
+35,Feature,GUI Apps,0
+36,Hybrid,Neural networks,0
+37,Hybrid,GUI Apps,0
+38,Hybrid,Other,0
+39,Execution,Model-Based,0
+40,Execution,Web,0
+41,Execution,GUI Apps,0
+42,Execution,Other,0
+43,Transitions,Stand-Alone,0
+44,Transitions,Neural networks,0
+45,Transitions,Web,0
+46,Transitions,GUI Apps,0
+47,Output,GUI Apps,0
+48,Output,Other,0
+49,Coverage,Model-Based,0
+50,Coverage,Web,0
+51,Coverage,GUI Apps,0
+52,Coverage,Other,0
+53,GUI,Stand-Alone,0
+54,GUI,Neural networks,0
+55,GUI,Model-Based,0
+56,GUI,Other,0
+57,Other,Neural networks,0
+58,Other,GUI Apps,0
+59,Other,Other,0

@@ -1,0 +1,43 @@
+,Metric,Application,count
+0,Other Generic,Stand-Alone,38
+1,Specialised,Stand-Alone,26
+2,Euclidean,Stand-Alone,24
+3,Jaccard,Stand-Alone,24
+4,Levenshtein,Stand-Alone,18
+5,Hamming,Stand-Alone,16
+6,Manhattan,Stand-Alone,12
+7,Other Generic,Neural networks,8
+8,Levenshtein,Model-Based,6
+9,Specialised,Model-Based,6
+10,Euclidean,Model-Based,4
+11,Euclidean,Neural networks,3
+12,Levenshtein,Web,3
+13,Manhattan,Other,3
+14,Other Generic,Web,3
+15,Other Generic,Other,3
+16,Specialised,Other,3
+17,Euclidean,Web,2
+18,Euclidean,Other,2
+19,Jaccard,Neural networks,2
+20,Jaccard,Model-Based,2
+21,Manhattan,Neural networks,2
+22,Other Generic,Model-Based,2
+23,Specialised,Neural networks,2
+24,Specialised,Web,2
+25,Specialised,GUI Apps,2
+26,Levenshtein,Neural networks,1
+27,Levenshtein,GUI Apps,1
+28,Levenshtein,Other,1
+29,Jaccard,GUI Apps,1
+30,Jaccard,Other,1
+31,Hamming,Model-Based,1
+32,Hamming,Other,1
+33,Manhattan,Web,1
+34,Euclidean,GUI Apps,0
+35,Jaccard,Web,0
+36,Hamming,Neural networks,0
+37,Hamming,Web,0
+38,Hamming,GUI Apps,0
+39,Manhattan,Model-Based,0
+40,Manhattan,GUI Apps,0
+41,Other Generic,GUI Apps,0

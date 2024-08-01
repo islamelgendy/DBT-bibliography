@@ -1,0 +1,50 @@
+,Metric,Problem,count
+0,Other Generic,Test data generation,19
+1,Specialised,Test data generation,17
+2,Levenshtein,Test data generation,14
+3,Other Generic,Test case prioritisation,14
+4,Euclidean,Test case prioritisation,11
+5,Euclidean,Test data generation,9
+6,Specialised,Test case prioritisation,9
+7,Specialised,Test case selection,9
+8,Jaccard,Test data generation,8
+9,Other Generic,Test suite reduction,8
+10,Manhattan,Test data generation,7
+11,Other Generic,Test case selection,7
+12,Euclidean,Test suite reduction,6
+13,Levenshtein,Test case selection,6
+14,Hamming,Test data generation,6
+15,Hamming,Test case prioritisation,6
+16,Euclidean,Test case selection,5
+17,Jaccard,Test case prioritisation,5
+18,Manhattan,Test case prioritisation,5
+19,Levenshtein,Test case prioritisation,4
+20,Levenshtein,Test suite reduction,4
+21,Jaccard,Test case selection,4
+22,Jaccard,Test suite evaluation,4
+23,Jaccard,Test suite reduction,4
+24,Jaccard,Fault localisation,4
+25,Other Generic,Other,4
+26,Euclidean,Test suite evaluation,3
+27,Hamming,Test suite reduction,3
+28,Other Generic,Test suite evaluation,3
+29,Specialised,Test suite reduction,3
+30,Euclidean,Other,2
+31,Levenshtein,Test suite evaluation,2
+32,Hamming,Test case selection,2
+33,Manhattan,Test suite evaluation,2
+34,Manhattan,Fault localisation,2
+47,Other Generic,Fault localisation,2
+35,Specialised,Test suite evaluation,2
+36,Jaccard,Other,1
+37,Hamming,Test suite evaluation,1
+38,Manhattan,Test case selection,1
+39,Manhattan,Test suite reduction,1
+40,Specialised,Other,1
+41,Euclidean,Fault localisation,0
+42,Levenshtein,Fault localisation,0
+43,Levenshtein,Other,0
+44,Hamming,Fault localisation,0
+45,Hamming,Other,0
+46,Manhattan,Other,0
+48,Specialised,Fault localisation,0
