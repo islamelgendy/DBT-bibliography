@@ -48,7 +48,7 @@ ALL( "software test*" ) AND ( KEY ( divers* OR similar* ) OR TITLE ( divers* OR 
 
 ## Test re-test
 According to the guidelines by Kitchenham~\cite{Keele2007}, the first author has applied a test re-test approach, where he made a second extraction of the statistics and information on a random selection of papers to check the consistency of information extraction. The random set contained 17 papers, which are 10% of the papers in the study. We used an online random number generator[^5] for the papers to be reviewed, where the numbers refer to the indices of the papers in our final list. These papers are:
-1. Xie2005: A dynamic optimization strategy for evolutionary testing.
+1. Abd2019: Similarity distance measure and prioritization algorithm for test case prioritization in software product line testing.
 2. Cruciani2019: Scalable Approaches for Test Suite Reduction.
 3. Noor2015: A similarity-based approach for test case prioritization using historical failure data.
 4. Attaoui2023: Black-box safety analysis and retraining of DNNs based on feature extraction and clustering.
@@ -56,7 +56,7 @@ According to the guidelines by Kitchenham~\cite{Keele2007}, the first author has
 6. Hemmati2013: Achieving Scalable Model-Based Testing through Test Case Diversity.
 7. Guarnieri2022: An Automated Framework for Cost Reduction of Mutation Testing Based on Program Similarity.
 8. Chen2019C: History-Guided Configuration Diversification for Compiler Test-Program Generation.
-9. Semerath2020: Diversity of graph models and graph generators in mutation testing.
+9. De2020: Using mutation testing to measure behavioural test diversity.
 10. Farzat2010: Test Case Selection Method for Emergency Changes.
 11. Gong2012: Diversity Maximization Speedup for Fault Localization.
 12. Wu2012: Test case prioritization incorporating ordered sequence of program elements.
