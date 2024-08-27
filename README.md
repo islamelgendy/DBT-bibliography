@@ -60,7 +60,7 @@ According to the guidelines by Kitchenham~\cite{Keele2007}, the first author has
 10. Farzat2010: Test Case Selection Method for Emergency Changes.
 11. Gong2012: Diversity Maximization Speedup for Fault Localization.
 12. Wu2012: Test case prioritization incorporating ordered sequence of program elements.
-13. Panchapakesan2013: Dynamic white-box software testing using a recursive hybrid evolutionary strategy/genetic algorithm.
+13. Asoudeh2013: A Multi-objective Genetic Algorithm for Generating Test Suites from Extended Finite State Machines.
 14. You2013: Evaluation and Analysis of Spectrum-Based Fault Localization with Modified Similarity Coefficients for Software Debugging.
 15. Ledru2012: Prioritizing test cases with string distances.
 16. Yu2023: Black-Box Test Case Prioritization Using Log Analysis and Test Case Diversity.
