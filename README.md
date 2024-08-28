@@ -12,7 +12,7 @@ In this README file, we give a few details about the systematic mapping study on
 
 ## Search Operationalization 
 We collected papers for our study on the 24th of June, 2024 using searches on
-IEEE Xplore\footnote[^1], the ACM Digital Library[^2], Scopus[^3], and
+IEEE Xplore[^1], the ACM Digital Library[^2], Scopus[^3], and
 SpringerLink[^4].
 
 [^1]: https://ieeexplore.ieee.org/Xplore
